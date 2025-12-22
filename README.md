@@ -7,7 +7,7 @@ I am a motivated and self-confident MCA graduate with a strong interest in softw
 ## 🎓 Education
 
 * **Master of Computer Application (MCA)**
-  *(Pursuing / Completed – update as applicable)*
+  *(Pursuing )*
 
 ## 💻 Technical Skills
 
