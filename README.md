@@ -1,48 +1,82 @@
-# 👋 Hi, I'm Pratiksha Lavand
+# Hi there, I'm Pratiksha Lavand 👋
 
-## 👩‍💻 About Me
+## About Me
 
-I am a motivated and self-confident MCA graduate with a strong interest in software development and cloud technologies. I enjoy building practical web applications and deploying them on cloud platforms. I am a quick learner who is continuously upgrading my technical skills and aspiring to work in a reputed MNC where I can contribute, learn, and grow professionally.
+Passionate Cloud Computing and DevOps enthusiast with hands-on experience in AWS, Linux, Git, Docker, and Jenkins. I enjoy building cloud-based solutions, automating workflows, and learning modern technologies. Currently focused on developing practical skills in Cloud Infrastructure, CI/CD, and DevOps practices.
 
-## 🎓 Education
+## Technical Skills
 
-* **Master of Computer Application (MCA)**
-  *(Pursuing )*
+### Cloud Platforms
 
-## 💻 Technical Skills
+* AWS EC2
+* AWS S3
+* AWS IAM
+* AWS VPC
+* AWS RDS
+* AWS CloudWatch
 
-* **Programming Languages:** HTML, CSS, JavaScript, PHP
-* **Database Technologies:** MySQL, MariaDB
-* **Cloud & DevOps:** AWS (EC2, VPC, Auto Scaling), Two-Tier Architecture
-* **Tools & Platforms:** XAMPP, Linux (Basic Commands)
-* **Other Skills:** Application Deployment, Server Setup
+### DevOps Tools
 
-## 🚀 Projects
+* Linux
+* Git & GitHub
+* Docker
+* Jenkins
+* CI/CD
+* Terraform (Learning)
+* Kubernetes (Learning)
 
-### 🔹 Online Home Service Provider Platform
+### Programming
 
-A web-based application that allows users to book home services through an easy-to-use interface. Includes separate modules for users and service providers with database connectivity.
+* Java
+* PHP
+* JavaScript
+* HTML
+* CSS
 
-### 🔹 Student Registration Application (AWS Deployment)
+### Database
 
-Designed and deployed a two-tier architecture on AWS using EC2 instances, Auto Scaling, and a dedicated database server for handling student registration data efficiently.
+* MySQL
 
-## 🌱 Currently Learning
+## Featured Projects
 
-* Advanced AWS Services
-* DevOps Fundamentals
-* Advanced PHP & Database Optimization
+### Train Ticket Reservation System
 
-## 🎯 Career Objective
+* Developed a Java-based application for train ticket booking and management.
+* Implemented reservation, cancellation, and passenger management features.
+* Integrated database operations using MySQL.
 
-To obtain a challenging position in a reputed organization where I can apply my technical knowledge, gain hands-on industry experience, and continuously enhance my skills while contributing to organizational success.
+### Home Service Provider Platform
 
-## ✨ Strengths
+* Developed a web application connecting customers with service providers.
+* Implemented authentication, booking management, and service listings.
+* Built using PHP, MySQL, HTML, CSS, JavaScript, and Bootstrap.
 
-* Self-confident and positive attitude
-* Quick learner with strong problem-solving skills
-* Hardworking, dedicated, and goal-oriented
+### AWS & DevOps Projects
+
+* Static Website Hosting on AWS S3
+* EC2 Deployment and Configuration
+* Docker Containerization
+* Jenkins CI/CD Pipeline Setup
+
+## Currently Learning
+
+* AWS Services
+* Terraform
+* Kubernetes
+* Infrastructure as Code (IaC)
+
+## Career Goal
+
+To build a successful career in Cloud Computing and DevOps by creating scalable, secure, and automated solutions while continuously learning and adapting to new technologies.
+
+## Connect With Me
+
+📧 Email: pratikshalavand98@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/pratiksha-lavand/
+
+💻 GitHub: https://github.com/pratikshalavand98/
 
 ---
 
-⭐ *Thank you for visiting my GitHub profile. Feel free to explore my repositories!*
+⭐ Always learning, building, and improving.
